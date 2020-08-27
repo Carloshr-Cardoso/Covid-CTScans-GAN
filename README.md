@@ -4,7 +4,7 @@
 #### Base de Dados Tratada
   - Imagens de Resolução 512x512 em formato .jpg 
   - Classes: Covid Positivos | Covid Negativos
-  - Disponivel Para Download em: <Link Google Drive>
+  - Disponivel Para Download em: https://drive.google.com/drive/folders/1W7UsVoT0horlRKs23hdY1QUt9-TuLpPV?usp=sharing
   
   
 #### Base de Dados Original
